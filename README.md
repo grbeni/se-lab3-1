@@ -1,6 +1,6 @@
 # SE Spaceship
 
-[![License](https://shields.io)](https://github.com)
+[![License](https://img.shields.io/github/license/grbeni/se-lab3-1)](https://github.com/grbeni/se-lab3-1/blob/main/LICENSE)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
