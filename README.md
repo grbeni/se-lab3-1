@@ -1,5 +1,7 @@
 # SE Spaceship
 
+[![License: MIT](https://shields.io)](https://opensource.org)
+
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
